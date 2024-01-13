@@ -1,0 +1,22 @@
+package test.java.stepdefs;
+
+import org.junit.runner.*;
+
+import io.cucumber.*; //.cucumber.junit.Cucumber
+import io.cucumber.junit  //.junit.CucumberOptions;
+
+@RunWith(Cucumber.class)
+
+@CucumberOptions(
+		
+		monochrome=true,
+		plugin= {"pretty"},
+		features= "src/test/java/features",
+		glue="stepdefs",
+		tags= {"@Calc"}
+		)
+
+public class TestRunner {
+	
+
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PalindromeTest" project="JunitProject" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="junit.PalindromeTest" time="0.0" displayname="PalindromeTest" uniqueid="[engine:junit-jupiter]/[class:junit.PalindromeTest]">
+    <testcase name="PostiveTest" classname="junit.PalindromeTest" time="0.0" displayname="PostiveTest()" uniqueid="[engine:junit-jupiter]/[class:junit.PalindromeTest]/[method:PostiveTest()]"/>
+    <testcase name="NegativeTest" classname="junit.PalindromeTest" time="0.0" displayname="NegativeTest()" uniqueid="[engine:junit-jupiter]/[class:junit.PalindromeTest]/[method:NegativeTest()]"/>
+  </testsuite>
+</testrun>
